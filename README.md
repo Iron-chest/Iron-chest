@@ -1,6 +1,7 @@
 <hr>
 Akintayo Tolani is an experienced and detail-oriented Cloud DevOps Engineer and technical writer with over 5 years of hands-on expertise, showcasing a proactive mindset and a proven track record in optimizing software development workflows and elevating operational effectiveness. Proficient in infrastructure automation, CI/CD Pipelines, Cloud platforms, and containerization techniques. Dedicated to fostering innovation and spearheading transformative initiatives within organizational settings
 
+
 Tolani engages with the DevOps community through meetups, boot camps, hackathons, lectures, spaces and training.
 
 Outside of work, I'm passionate about expanding my expertise in DevOps and enjoy reading books. I love mentoring and providing honest advice to tech newbies. I'm a focused and driven individual, always giving my best to get the job done. He writes a lot of articles [Here](https://devopsforjesus.hashnode.dev/ "My Blog") where he shares his knowledge.
