@@ -16,7 +16,7 @@ Outside of work, I'm passionate about expanding my expertise in DevOps and enjoy
   - Technical Writing Profiles: 
     - [Blog](https://devopsforjesus.hashnode.dev/ "Blog") | [Bincom](https://drive.google.com/drive/u/0/folders/1s0p7VX3-QkTq8e5jIpJiuEMWn61DsVuD "Docs")
       
-- 🌱 I’m currently learning: Ansible, GitOps, Python & Kubernetes Mastery
+- 🌱 I’m currently learning: Ansible, GitOps, (Python & Golang) & Kubernetes Mastery
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love simplicity 🥳
 
