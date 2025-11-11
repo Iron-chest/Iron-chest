@@ -1,5 +1,5 @@
 <hr>
-Akintayo Tolani is an experienced and detail-oriented Cloud DevOps Engineer and technical writer with over 5 years of hands-on expertise, showcasing a proactive mindset and a proven track record in optimizing software development workflows and elevating operational effectiveness. Proficient in infrastructure automation, CI/CD Pipelines, Cloud platforms, and containerization techniques. Dedicated to fostering innovation and spearheading transformative initiatives within organizational settings
+Akintayo Tolani is an experienced and detail-oriented Cloud DevOps Engineer and technical writer with over 3+ years of hands-on expertise, showcasing a proactive mindset and a proven track record in optimizing software development workflows and elevating operational effectiveness. Proficient in infrastructure automation, CI/CD Pipelines, Cloud platforms, and containerization techniques. Dedicated to fostering innovation and spearheading transformative initiatives within organizational settings
 
 
 Tolani engages with the DevOps community through meetups, boot camps, hackathons, lectures, spaces and training.
